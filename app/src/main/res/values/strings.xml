@@ -1,0 +1,225 @@
+<resources>
+    <string name="app_name">Marathi Video Status, Quotes, Image</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="payments_methodes">
+        <item>UPI</item>
+        <item>Google Pay</item>
+        <item>Phone Pay</item>
+    </string-array>
+
+    <string name="facebook_app_id">832255120692825</string>
+    <string name="fb_login_protocol_scheme">fb832255120692825</string>
+
+
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <array name="colors_load">
+        <item>@color/colorPrimaryDark</item>
+        <item>@color/colorPrimaryDark</item>
+    </array>
+
+    <array name="colors_load_img">
+        <item>@color/black</item>
+        <item>@color/dark_gray</item>
+    </array>
+    <string name="action_settings">सेटिंग्ज</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="action_infos"><![CDATA[रिपोर्ट बग / मदत]]></string>
+    <string name="error_short_value">आपले फील्ड खूप लहान आहे</string>
+    <string name="error_mail_valide">वैध ईमेल प्रविष्ट करा</string>
+    <string name="message_sended">संदेश यशस्वीरित्या पाठविला गेला आहे</string>
+    <string name="progress_login">प्रोग्रेस मध्ये आहे</string>
+    <string name="policy_privacy">प्रायव्हसी पॉलिसी</string>
+    <string name="action_rate">रेट ॲप</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="language_label">आपल्या भाषा निवडा</string>
+    <string name="loading_language">भाषा लोड करीत आहे ..</string>
+    <string name="error_server">तुमचे इंटरनेट तपासा</string>
+    <string name="try_again">पुन्हा प्रयत्न करा</string>
+    <string name="favorite">आवडते</string>
+    <string name="download">डाउनलोड</string>
+    <string name="share">शेअर</string>
+    <string name="copy">कॉपी करा</string>
+    <string name="more_status">अधिक स्टेटस</string>
+    <string name="permission_desc">ॲपचा वापर चालू ठेवण्यासाठी आता आम्हाला आपल्या परवानगीची आवश्यकता आहे.</string>
+    <string name="permission_title">सर्वकाही ठीक आहे</string>
+    <string name="menu_popular">लोकप्रिय</string>
+    <string name="menu_latest">लेटेस्ट</string>
+    <string name="upload_image">इमेज अपलोड करा</string>
+    <string name="edit_text_upload_title_error">शीर्षक खूप लहान, कृपया एक योग्य शीर्षक लिहा</string>
+    <string name="image_upload_error">कृपया एक इमेज निवडा</string>
+    <string name="video_upload_error">कृपया एक इमेज निवडा</string>
+    <string name="gif_upload_error">कृपया एक इमेज निवडा</string>
+    <string name="image_upload_success">आपली इमेज यशस्वीरित्या अपलोड केली आहे</string>
+    <string name="video_upload_success">आपला व्हिडिओ यशस्वीरित्या अपलोड केला आहे</string>
+    <string name="status_upload_success">आपले स्टेटस यशस्वीरित्या अपलोड केले आहे</string>
+    <string name="status_copied_success">स्टेटस यशस्वीरित्या कॉपी केले आहे</string>
+    <string name="gif_upload_success">आपली GIF यशस्वीरित्या अपलोड केले आहे</string>
+    <string name="no_connexion">कनेक्शन समस्या</string>
+    <string name="retry">पुन्हा प्रयत्न करा</string>
+    <string name="upload_gif">GIF अपलोड करा</string>
+    <string name="please_login">आपल्या खात्यात लॉग इन करा</string>
+    <string name="welcome_login">अधिक वापरण्यासाठी लॉगिन करा</string>
+    <string name="welcome_login_text">व्हिडिओ स्टेटस, इमेज, अपलोड करण्यासाठी लॉगिन करा ....</string>
+    <string name="operation_progress">प्रोग्रेस मध्ये आहे</string>
+    <string name="account_disabled">क्षमस्व, आपले खाते लॉक केले गेले आहे</string>
+    <string name="login_gg_text">गूगल सह लॉगिन करा</string>
+    <string name="message_logout">आपण यशस्वीरित्या लॉगआउट झाला आहात</string>
+    <string name="more_jokes">अधिक विनोद</string>
+    <string name="more_images">अधिक इमेज </string>
+    <string name="more_gifs">अधिक GIFS</string>
+    <string name="more_videos">अधिक व्हिडिओ</string>
+    <string name="update_now">अपडेट करा</string>
+    <string name="exit">बाहेर पडा</string>
+    <string name="go_pro">GO PRO</string>
+    <string name="hint_message">तुमचा संदेश</string>
+    <string name="send_support">संदेश पाठवा</string>
+    <string name="hint_email">ई-मेल</string>
+    <string name="hint_name">पूर्ण नाव</string>
+    <string name="about_us">आमच्याबद्दल</string>
+    <string name="version_label">आवृत्ती</string>
+    <string name="title_notification">पुश नोटिफिकेशन चालू ठेवा</string>
+    <string name="label_notification">पुश नोटिफिकेशन प्राप्त करा</string>
+    <string name="clear_cache">कॅशे साफ करा</string>
+    <string name="label_cache">स्थानिक कॅश्ड स्टेटस साफ करा. सध्याः </string>
+    <string name="contact_us">आमच्याशी संपर्क साधा</string>
+
+    <string name="download_more_from_link">Get more from == https://play.google.com/store/apps/details?id=com.saispark.marathi_video_status ==</string>
+    <string name="upload_video">व्हिडिओ अपलोड करा</string>
+    <string name="share_as_image">शेअर \n as image</string>
+    <string name="share_as_text">शेअर \n as text</string>
+    <string name="copy_status">कॉपी \n status</string>
+    <string name="add_to_favorite">आवडीमध्ये \n जोडा</string>
+    <string name="copy_joke">कॉपी \n  Joke</string>
+    <string name="comment">टिप्पणी</string>
+    <string name="write_comment">टिप्पणी करा</string>
+    <string name="comment_hidden">टिप्पणी लपवली</string>
+    <string name="now_time">आता</string>
+    <string name="all_categories">सर्व दाखवा</string>
+    <string name="all_categories_gif">सर्व Gifs कॅटेगरीज</string>
+    <string name="all_categories_video">सर्व Video कॅटेगरीज</string>
+    <string name="all_categories_status">सर्व Status कॅटेगरीज</string>
+    <string name="all_categories_jokes">सर्व Joke कॅटेगरीज</string>
+    <string name="all_categories_images">सर्व Images कॅटेगरीज</string>
+
+    <string name="loading">लोड करीत आहे</string>
+    <string name="invalide_url">अवैध url</string>
+    <string name="loading_user_data">वापरकर्ता डेटा लोड करीत आहे</string>
+    <string name="edit_my_profile">प्रोफाइल सुधारा</string>
+
+    <string name="hint_facebook">Facebook लिंक</string>
+    <string name="hint_twitter">Twitter लिंक</string>
+    <string name="hint_instragram">Instagram लिंक</string>
+    <string name="save">जतन करा</string>
+    <string name="menu_me">मी</string>
+    <string name="comments">  टिप्पण्या</string>
+    <array name="autosize_text_sizes">
+        <item>10sp</item>
+        <item>12sp</item>
+        <item>20sp</item>
+        <item>40sp</item>
+        <item>100sp</item>
+    </array>
+    <string name="skip">नाही</string>
+    <string name="rate_our_app">आमच्या अॅपला रेट करा</string>
+    <string name="rate_our_app_message">आपणास आमची अॅपप आवडत असल्यास, कृपया यास रेट करण्यासाठी थोडा वेळ द्या.</string>
+    <string name="rate_now">आता रेट करा</string>
+    <string name="later">नंतर</string>
+    <string name="no_again">पुन्हा विचारू नका</string>
+    <string name="description_subsribte">आमच्या पॅकसह. आपण जाहिरातीशिवाय अनुभव घेऊ शकता आणि आवश्यक गोष्टींवर लक्ष केंद्रित करू शकता.</string>
+    <string name="select_language">आपल्या भाषा निवडा</string>
+    <string name="on_review">रिव्ह्यू मध्ये आहे</string>
+
+    <string name="title_slide_1">Marathi Video Status, Quotes, Images अॅप मध्ये आपले स्वागत आहे.</string>
+    <string name="description_slide_1">Marathi Video Status, Quotes, Images अॅप डाऊनलोड केल्याबद्दल धन्यवाद, विविध वैशिष्ट्यांसह या अद्भुत अँड्रॉइड अॅपचा आनंद घ्या.</string>
+
+    <string name="title_slide_2">अॅप वापरुन पॉईंटस मिळवा.</string>
+    <string name="description_slide_2">व्हिडिओ, GIFs, प्रतिमा, स्टेटस पहा आणि आपल्या मित्रांना अॅप वापरण्यासाठी आमंत्रित करा आणि शेअर करून पॉईंटस मिळवा.</string>
+
+    <string name="title_slide_3">क्रिएटिव्ह व्हा</string>
+    <string name="description_slide_3">लॉगिन करा आणि वापरकर्त्यांसह क्रिएटिव्ह कल्पना शेअर करा.</string>
+
+    <string name="title_slide_4">डाउनलोड आणि शेअर करा</string>
+    <string name="description_slide_4">कोणतेही स्टेटस डाउनलोड करा आणि ऑफलाइन मोडवर पाहण्यासाठी आपल्या डिव्हाइसवर ठेवा आणि आपल्या मित्रांसह शेअर करा.</string>
+
+    <string name="title_slide_5">आवडते</string>
+    <string name="description_slide_5">आपली आवडती सूची तयार करा आणि ती नंतर पहाण्यासाठी जतन करून ठेवा.</string>
+
+    <string name="title_slide_6">आपल्या प्रतिक्रिया द्या</string>
+    <string name="description_slide_6">सर्वोत्कृष्ट स्टेटस पहा आणि आपली प्रतिक्रिया द्या, जसे like, love, haha, lol, angry.</string>
+
+    <string name="title_slide_8">जाहिराती काढून टाका</string>
+    <string name="description_slide_8">अल्प किंमतीसह सदस्यता घ्या आणि सर्व जाहिरातीशिवाय अॅप वापरा.</string>
+
+    <string name="share_this_app">शेअर ॲप</string>
+    <string name="images_downloaded">व्हिडिओ यशस्वीरित्या डाउनलोड केला गेला आहे</string>
+    <string name="twitter_not_installed">Twitter इन्स्टॉल केलेले नाही</string>
+    <string name="app_not_installed">कोणताही अॅप इन्स्टॉल केलेला नाही</string>
+    <string name="share_via">शेअर करा</string>
+    <string name="downloading">डाउनलोड करत आहे</string>
+    <string name="instagram_not_installed">Instagram इन्स्टॉल केलेले नाही</string>
+    <string name="hike_not_installed">Hike इन्स्टॉल केलेले नाही</string>
+    <string name="snapchat_not_installed">Snapshot इन्स्टॉल केलेले नाही</string>
+    <string name="messenger_not_installed">Messenger इन्स्टॉल केलेले नाही</string>
+    <string name="facebook_not_installed">Facebook इन्स्टॉल केलेले नाही</string>
+    <string name="whatsapp_not_installed">व्हॉट्सअॅप इन्स्टॉल केलेले नाही</string>
+    <string name="download_failed">डाउनलोड अयशस्वी! कृपया आपले इंटरनेट कनेक्शन तपासा आणि पुन्हा प्रयत्न करा</string>
+    <string name="my_profile">माझे प्रोफाइल</string>
+    <string name="menu_follow">Follow</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="downloaded_video">डाउनलोड केलेले स्टेटस</string>
+    <string name="dialog_text_no_ads_title">जाहिराती बंद करा</string>
+    <string name="dialog_text_no_premium_wallpapers_title">प्रीमियम कन्टेन्ट</string>
+    <string name="dialog_text_no_premium_wallpapers_description">अमर्यादित वॉलपेपर मिळवा</string>
+    <string name="dialog_text_no_ads_description">जाहिरातींशिवाय अॅप विनामूल्य वापरा</string>
+    <string name="subscribe">सबस्क्राईब</string>
+    <string name="Logout">लॉगआऊट</string>
+    <string name="login">लॉगिन / नोंदणी करा</string>
+
+    <string name="save_successful_message">Saved To Gallery!</string>
+    <string name="save_error_message">Could not save,Try again later</string>
+    <string name="whatsapp_saver">व्हॉट्सॲप स्टेटस सेव्हर</string>
+    <string name="write_quote">स्टेटस लिहा</string>
+    <string name="my_earning">My Earning</string>
+    <string name="reference_code_copied">Your Reference code has been copied</string>
+    <string name="hint_payemnts">Payment account info</string>
+    <string name="send_request">Send Request</string>
+    <string name="request_withdrawal">Request withdrawal</string>
+    <string name="withdrawals">Withdrawals</string>
+
+    <!-- update 1.2 -->
+    <string name="rating_dialog_cancel">रद्द करा</string>
+    <string name="rating_dialog_experience">तुमचा अनुभव कसा होता?</string>
+    <string name="rating_dialog_feedback_title">आपला अभिप्राय</string>
+    <string name="rating_dialog_maybe_later">कदाचित नंतर</string>
+    <string name="rating_dialog_never">कधीही नाही</string>
+    <string name="rating_dialog_submit">सबमिट</string>
+    <string name="FACEBOOK_ADS_INTERSTITIAL_PLACEMENT_ID">ccc</string>
+    <string name="downloads">डाउनलोडस</string>
+    <string name="favorites">आवडते</string>
+    <string name="categories">कॅटेगरीज</string>
+    <string name="subscriptons">सब्स्क्रिपशन्स</string>
+    <string name="popular">लोकप्रिय</string>
+    <string name="latest">लेटेस्ट</string>
+    <string name="upload_youtube">यूट्यूब व्हिडिओ अपलोड करा</string>
+    <string name="upload_video_thumbnail">थंबनेल अपलोड करा</string>
+    <string name="upload_youtube_video">यूट्यूब व्हिडिओ अपलोड करा</string>
+    <string name="edit_text_upload_youtube_invalidate">लिंक चुकीची आहे</string>
+    <string name="youtube_upload_success">आपला यूट्यूब व्हिडिओ यशस्वीरित्या अपलोड केला गेला आहे</string>
+    <string name="report_status">रिपोर्ट स्टेटस</string>
+    <string name="delete">हटवा</string>
+    <string name="post_delete_success">स्टेटस यशस्वीरित्या हटविले गेले आहे</string>
+    <string name="post_delete_failed">तुमची विनंती केलेले अयशस्वी झाली</string>
+    <string name="confirm_delete">आपण खरोखर हे स्टेटस हटवू इच्छिता?</string>
+    <string name="delete_statsu">स्टेटस हटवा</string>
+    <string name="accept_privacy_policy_error">लॉगिन करण्यापूर्वी आपण प्रायव्हसी पॉलिसी स्वीकारले पाहिजे</string>
+
+</resources>

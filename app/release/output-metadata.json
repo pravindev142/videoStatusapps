@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.saispark.marathi_video_status",
+  "variantName": "processReleaseResources",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "versionCode": 2,
+      "versionName": "1.0.1",
+      "outputFile": "app-release.apk"
+    }
+  ]
+}

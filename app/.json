@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "901955000981",
+    "firebase_url": "https://marathi-video-status-8e5eb-default-rtdb.firebaseio.com",
+    "project_id": "marathi-video-status-8e5eb",
+    "storage_bucket": "marathi-video-status-8e5eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901955000981:android:258210b768fb25c320599c",
+        "android_client_info": {
+          "package_name": "com.saispark.marathi_video_status"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901955000981-0cne14g546qttge92t1ui7ol9t9q3vdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saispark.marathi_video_status",
+            "certificate_hash": "f3098a8a43c3e2ed778548e38f4b8afd7aefa437"
+          }
+        },
+        {
+          "client_id": "901955000981-j79tp19s2ju6fjqo9f8k7mdm978sfgr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saispark.marathi_video_status",
+            "certificate_hash": "f25148969c58d496048663375a68630479c2a148"
+          }
+        },
+        {
+          "client_id": "901955000981-vfevsfskup3t0u0hm87fs1njeu04v3op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATxrXXxVHx6khmzXBxmx3jzJdVdkT0DoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901955000981-vfevsfskup3t0u0hm87fs1njeu04v3op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
